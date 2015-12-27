@@ -1,3 +1,2 @@
 # Sumadora
-
 Interfaz para multiplexor.
